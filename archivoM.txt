@@ -1,2 +1,3 @@
 Hoy estamos trabajando con git
 en el modulo de nuevas tecnologias de programaccion 
+generando nuevo
